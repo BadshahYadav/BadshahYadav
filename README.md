@@ -1,5 +1,4 @@
-(https://th.bing.com/th/id/OIP.QiJfW66-8Lvv094Vxh1CqAHaCv?pid=ImgDet&rs=1)
-
+[!MasterCard](https://gentleninja.com/blog/wp-content/uploads/2016/04/android-app-banner-1.jpg)
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
