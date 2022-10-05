@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F8b%2Fc8%2F13%2F8bc8138470ece0f8c5a6dc3cd715de92.png&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F738449670151590730%2F&tbnid=5go5RWvr8SxEiM&vet=12ahUKEwigyt3Bn8j6AhWni9gFHWvAAKMQMygAegUIARC8AQ..i&docid=VCm_o8S-qBaGIM&w=1584&h=396&q=banner%20image%20for%20android%20developer&ved=2ahUKEwigyt3Bn8j6AhWni9gFHWvAAKMQMygAegUIARC8AQ)
+[![MasterHead]("https://th.bing.com/th/id/OIP.QiJfW66-8Lvv094Vxh1CqAHaCv?pid=ImgDet&rs=1")
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjLsNjancj6AhVAyaACHaInD2YQMygGegUIARCEAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&hl=en-GB&ved=2ahUKEwjLsNjancj6AhVAyaACHaInD2YQMygGegUIARCEAg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badshahyadav&label=Profile%20views&color=0e75b6&style=flat" alt="badshahyadav" /> </p>
 
