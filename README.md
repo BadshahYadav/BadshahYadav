@@ -1,4 +1,4 @@
-[![MasterHead]("https://th.bing.com/th/id/OIP.QiJfW66-8Lvv094Vxh1CqAHaCv?pid=ImgDet&rs=1")
+[![MasterHead](https://th.bing.com/th/id/OIP.QiJfW66-8Lvv094Vxh1CqAHaCv?pid=ImgDet&rs=1)
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
