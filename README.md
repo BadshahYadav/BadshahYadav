@@ -1,4 +1,4 @@
-![MasterCard](<img align="right" alt="Coding" width="1200" src="https://github.com/BadshahYadav/Profile_Card_./blob/master/img/banner.jpg">)
+![MasterCard](https://github.com/BadshahYadav/Profile_Card_./blob/master/img/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
 <h3 align="center">A passionate Andriod Developer, full stack Web Developer & Competitive Programmer</h3>
