@@ -1,4 +1,4 @@
-![MasterCard](https://github.com/BadshahYadav/Profile_Card_./blob/master/img/banner.jpg)
+![MasterCard](https://github.com/BadshahYadav/Profile_Card_./blob/master/img/Banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
 <h3 align="center">A passionate Andriod Developer, full stack Web Developer & Competitive Programmer</h3>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Andriod Development with Kotlin**
+- 🌱 I’m currently learning **App Development with Flutter & Dart**
 
-- 💬 Ask me about **nodejs, C++**
+- 💬 Ask me about **DSA, C++, JS**
 
 - 📫 How to reach me **badshahkumar1508@gmail.com**
 
