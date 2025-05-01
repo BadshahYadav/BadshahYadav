@@ -1,7 +1,7 @@
-![MasterCard](https://github.com/BadshahYadav/Profile_Card_./blob/master/img/banner.jpg)
+![MasterCard](https://github.com/BadshahYadav/Profile_Card_./blob/master/img/fullstack.jpg)
 
 <h1 align="center">Hi 👋, I'm Badshah Yadav</h1>
-<h3 align="center">A passionate Andriod Developer, full stack Web Developer & Competitive Programmer</h3>
+<h3 align="center">A passionate Fullstack Web Developer & Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badshahyadav&label=Profile%20views&color=0e75b6&style=flat" alt="badshahyadav" /> </p>
